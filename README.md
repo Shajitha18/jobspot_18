@@ -38,7 +38,7 @@
 - Clone the repository by running the following command in your terminal:
 
 ```bash
- git clone https://github.com/Krish-Parekh/JobSpot.git
+ git clone https://github.com/Shajitha18/jobspot_18.git
 ```
 
 - Add the `google-service.json` file to your application. This file contains your Firebase project's configuration details and is required for your app to function properly. To get this file, follow these steps:
@@ -92,9 +92,9 @@ Congratulations 🎉, you've successfully installed and launched the app and run
 | --- | --- |
 | ![Profile Edit Screen](./preview/profile_edit_light.png) | ![Logout Delete Screen](./preview/logout_delete_account_light.png) |
 
-# Contributing to [JobSpot](https://github.com/Krish-Parekh/JobSpot)
+# Contributing to [jobspot_18](https://github.com/Shajitha18/jobspot_18)
 
-Thank you for your interest in contributing to [JobSpot](https://github.com/Krish-Parekh/JobSpot)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
+Thank you for your interest in contributing to [jobspot_18](https://github.com/Shajitha18/jobspot_18)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
 
 ## Prerequisites
 
@@ -110,7 +110,7 @@ To contribute to [project name], follow these steps:
 - Fork the project repository by clicking the "Fork" button on the top-right corner of the GitHub page.
 - Clone the forked repository to your local machine using Git:
   ```bash
-    git clone https://github.com/[your-github-username]/[project-name].git
+    git clone https://github.com/Shajitha18/jobspot_18.git
   ```
 - Create a new branch for your changes:
   ```bash
